@@ -1,15 +1,15 @@
-+commit A
++ commit A
 
-+commit B
++ commit B
 
 HEAD
 
-+commit C
++ commit C
 
-+commit G
++ commit G
 
-+commit D
++ commit D
 
-+commit E
++ commit E
 
 master
