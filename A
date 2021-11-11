@@ -1,9 +1,0 @@
-1.	commit A
-2.	commit B
-<<<<<<< HEAD
-3.	commit C
-4.	commit G
----
-5.	commit D
-6.	commit E
->>>>>>> master
